@@ -1,38 +1,32 @@
- #signup-form {
-      background-color: rgb(248, 249, 250);
-      border: 1px solid rgb(204, 204, 204);
-      border-radius: 4px;
-      padding: 32px;
-      width: 300px;
-      font-family: Arial, sans-serif;
-    }
+#signup-form {
+  background-color: rgb(248, 249, 250);
+  border: 1px solid rgb(204, 204, 204);
+  border-radius: 4px;
+  padding: 32px;
+  width: 300px;
+}
 
-    #signup-form label {
-      display: block;
-      margin-bottom: 8px;
-      font-size: 19.2px;
-      font-weight: 700;
-    }
+#signup-form label {
+  margin-bottom: 8px;
+  font-size: 19.2px;
+  font-weight: 700;
+  display: block;
+}
 
-    #signup-form input {
-      width: 300px;
-      border: 1px solid rgb(204, 204, 204);
-      padding: 8px;
-      border-radius: 4px;
-      margin-bottom: 16px;
-      box-sizing: border-box;
-    }
+#signup-form input {
+  width: 300px;
+  border: 1px solid rgb(204, 204, 204);
+  padding: 8px;
+  border-radius: 4px;
+  margin-bottom: 16px;
+}
 
-    #signup-form #submit {
-      background-color: rgb(0, 123, 255);
-      color: rgb(255, 255, 255);
-      padding: 12px 24px;
-      border: none;
-      border-radius: 4px;
-      font-weight: 700;
-      cursor: pointer;
-    }
-
-    .container {
-      padding: 1rem;
-    }
+#signup-form #submit {
+  background-color: rgb(0, 123, 255);
+  color: rgb(255, 255, 255);
+  padding: 12px 24px;
+  border-radius: 4px;
+  font-weight: 700;
+  border: none;
+  cursor: pointer;
+}
